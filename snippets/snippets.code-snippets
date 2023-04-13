@@ -62,7 +62,7 @@
 		"description": "Creates and exports an React component with labels."
 	},
 	"HiQ Studio Vue component": {
-		"scope": "vue",
+		"scope": "javascript, vue",
 		"prefix": "hiqomponent",
 		"body": [
 			"<script>",

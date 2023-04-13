@@ -19,7 +19,7 @@
   "contributes": {
     "snippets": [
       {
-        "language": "javascript",
+        "language": "javascript, javascriptreact, vue",
         "path": "./snippets/snippets.code-snippets"
       }
     ]
