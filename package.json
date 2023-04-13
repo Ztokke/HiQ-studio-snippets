@@ -3,7 +3,7 @@
   "displayName": "HiQ Studio Snippets",
   "description": "HiQ Studio React/Vue code snippets",
   "icon": "images/icon.png",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "author": "Christofer Stäke, Réka Madarász",
   "publisher": "hiqstudio",
   "license": "MIT",
@@ -20,8 +20,16 @@
   "contributes": {
     "snippets": [
       {
-        "language": "javascript, javascriptreact, vue",
-        "path": "./snippets/snippets.code-snippets"
+        "language": "javascript",
+        "path": "./snippets/snippets-javascript.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/snippets-react.code-snippets"
+      },
+      {
+        "language": "vue",
+        "path": "./snippets/snippets-vue.code-snippets"
       }
     ]
   }

@@ -1,0 +1,49 @@
+{
+  "Javascript function": {
+    "scope": "javascript, javascriptreact",
+    "prefix": "jsfunc",
+    "body": [
+      "const ${1} = (${2}) => {",
+      "\t${3}",
+      "}"
+    ]
+  },
+  "Javascript function (clipboard)": {
+    "scope": "javascript, javascriptreact",
+    "prefix": "jsfunc (clipboard)",
+    "body": [
+      "const ${1} = (${2}) => {",
+      "\t$CLIPBOARD",
+      "}"
+    ]
+  },
+  "HiQ Studio Vue component": {
+    "scope": "javascript, vue",
+    "prefix": "hiqomponent",
+    "body": [
+      "<script>",
+      "// Utils",
+      "// Assets",
+      "// Components",
+      "// Partials",
+      "// Styles",
+      "// Variables",
+      "export default {",
+      "\tdata() {",
+      "\t\treturn {",
+      "\t\t\tcount: 0",
+      "\t\t}",
+      "\t}",
+      "}",
+      "</script>",
+      "",
+      "<template>",
+      "",
+      "</template>",
+      "<style scoped>",
+      "",
+      "</style>"
+    ],
+    "description": "Add HiQ Studio specifik labels to top of document"
+  }
+}

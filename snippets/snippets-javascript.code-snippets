@@ -1,0 +1,20 @@
+{
+  "Javascript function": {
+    "scope": "javascript, javascriptreact",
+    "prefix": "jsfunc",
+    "body": [
+      "const ${1} = (${2}) => {",
+      "\t${3}",
+      "}"
+    ]
+  },
+  "Javascript function (clipboard)": {
+    "scope": "javascript, javascriptreact",
+    "prefix": "jsfunc (clipboard)",
+    "body": [
+      "const ${1} = (${2}) => {",
+      "\t$CLIPBOARD",
+      "}"
+    ]
+  }
+}
