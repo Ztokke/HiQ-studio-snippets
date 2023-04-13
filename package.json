@@ -4,6 +4,7 @@
   "description": "HiQ Studio React/Vue code snippets",
   "version": "1.0.0",
   "author": "Christofer Stäke, Réka Madarász",
+  "publisher": "hiqstudio",
   "license": "MIT",
   "repository": {
     "type": "git",
