@@ -3,8 +3,8 @@
   "displayName": "HiQ Studio Snippets",
   "description": "HiQ Studio React/Vue code snippets",
   "icon": "images/icon.png",
-  "version": "1.0.4",
-  "author": "Christofer Stäke, Réka Madarász",
+  "version": "1.0.5",
+  "author": "Christofer Stäke",
   "publisher": "hiqstudio",
   "license": "MIT",
   "repository": {
