@@ -21,6 +21,7 @@
     "scope": "javascriptreact",
     "prefix": "hiqomponent (clipboard)",
     "body": [
+      "import PropTypes from 'prop-types';",
       "// Utils",
       "import { conditionalClasses } from \"@/utils/conditionalClasses\";",
       "// Assets",
@@ -36,6 +37,10 @@
       "\t\t</div>",
       "\t);",
       "};",
+      "",
+      "${1}.propTypes = {",
+      "\tclassName: PropTypes.string"
+      "}",
     ],
     "description": "Creates and exports an React component from Clipboard"
   },
@@ -43,6 +48,7 @@
     "scope": "javascriptreact",
     "prefix": "hiqomponent",
     "body": [
+      "import PropTypes from 'prop-types';",
       "// Utils",
       "import { conditionalClasses } from \"@/utils/conditionalClasses\";",
       "// Assets",
@@ -58,6 +64,10 @@
       "\t\t</div>",
       "\t);",
       "};",
+      "",
+      "${1}.propTypes = {",
+      "\tclassName: PropTypes.string"
+      "}",
     ],
     "description": "Creates and exports an React component with labels."
   }
