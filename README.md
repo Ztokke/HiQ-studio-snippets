@@ -22,3 +22,9 @@ This is the initial release and only contains the basic snippets for generating 
 
 ### 1.0.3
 Changing the Feature contribution language settings to make the snippets work as intended.
+
+### 1.0.5
+Added additional propTypes requirements for the studio.
+
+### 1.0.6
+Update to path for conditionalClasses and update to readme

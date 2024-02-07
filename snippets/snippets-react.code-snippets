@@ -23,7 +23,7 @@
     "body": [
       "import PropTypes from 'prop-types';",
       "// Utils",
-      "import { conditionalClasses } from \"@/utils/conditionalClasses\";",
+      "import { conditionalClasses } from \"@/scripts/utils/conditional-classes/conditionalClasses\";",
       "// Assets",
       "// Components",
       "// Partials",
@@ -50,7 +50,7 @@
     "body": [
       "import PropTypes from 'prop-types';",
       "// Utils",
-      "import { conditionalClasses } from \"@/utils/conditionalClasses\";",
+      "import { conditionalClasses } from \"@/scripts/utils/conditional-classes/conditionalClasses\";",
       "// Assets",
       "// Components",
       "// Partials",
