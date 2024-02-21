@@ -1,0 +1,20 @@
+{
+  "Typescript function": {
+    "scope": "typescript, typescriptreact",
+    "prefix": "tsfunc",
+    "body": [
+      "const ${1} = (${2}) => {",
+      "\t${3}",
+      "}"
+    ]
+  },
+  "Typescript function (clipboard)": {
+    "scope": "typescript, typescriptreact",
+    "prefix": "tsfunc (clipboard)",
+    "body": [
+      "const ${1} = (${2}) => {",
+      "\t$CLIPBOARD",
+      "}"
+    ]
+  }
+}
