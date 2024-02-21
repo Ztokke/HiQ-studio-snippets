@@ -9,4 +9,4 @@ vsce package
 vsce publish
 
 ## Install local
-code --install-extension hiq-studio-snippets-X.X.X.vsix
+code --install-extension hiq-studio-snippets-1.0.8.vsix
