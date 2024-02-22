@@ -13,6 +13,18 @@ The Vue version of the snippet is for proof of concept purposes only.
 
 ## Release Notes
 
+### 1.1.2
+Added method to convert function name (pascal) into classname (kebab-case).
+
+### 1.1.1
+Minor change to template for Typescript, added some spaces
+
+### 1.1.0
+Changed so that Props interface always takes the same name as function.
+
+### 1.0.9
+Added interface support for typescript snippet.
+
 ### 1.0.8
 Fixed the support for typescript, was broken.
 
